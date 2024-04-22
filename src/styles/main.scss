@@ -1,0 +1,14 @@
+@forward "./variables/colors";
+@forward "./variables/sizes";
+@forward "./fonts/montserrat";
+
+
+html, body, #app {
+  height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
